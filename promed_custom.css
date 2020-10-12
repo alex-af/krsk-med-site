@@ -1,4 +1,4 @@
-/* РћР±С‹С‡РЅР°СЏ */
+/* Обычная */
 #timeTable tr.time td.TimetableType_1_person
 {
     background-color: lightgray !important;
@@ -23,7 +23,7 @@
 
 }
 
-/* Р РµР·РµСЂРІРЅР°СЏ */
+/* Резервная */
 .TimetableType_2
 {
     background-color: green !important;
