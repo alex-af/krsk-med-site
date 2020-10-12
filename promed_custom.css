@@ -1,0 +1,30 @@
+/* Обычная */
+#timeTable tr.time td.TimetableType_1_person
+{
+    background-color: lightgray !important;
+    border: white 1px solid;
+    font-size:6pt;
+  
+}
+
+#timeTable tr.time td.TimetableType_1
+{
+    background-color: lightgreen !important;
+   	font-size:13pt;
+    font-weight:bold;
+        border: white 1px solid;
+
+}
+
+#timeTable tr.time td.TimetableType_1:hover
+{
+    background-color: green !important;
+    color:white;
+
+}
+
+/* Резервная */
+.TimetableType_2
+{
+    background-color: green !important;
+}
